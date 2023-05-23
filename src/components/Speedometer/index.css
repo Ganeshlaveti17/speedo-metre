@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: white;
+}
+.image {
+  height: 40vh;
+  width: 60vw;
+}
+.head2 {
+  color: white;
+}
+.description {
+  color: #cbd5e1;
+}
+.accelerate {
+  background-color: #0b69ff;
+  color: white;
+  height: 30px;
+  border-radius: 8px;
+  margin: 17px;
+}
+.break {
+  background-color: black;
+  color: #cbd5e1;
+  border-radius: 8px;
+  height: 30px;
+}
